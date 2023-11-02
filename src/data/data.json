@@ -1,0 +1,165 @@
+{
+  "Header": {
+    "title": "LUYỆN CHỮ ĐẸP",
+    "paragraph": "HUỆ LƯƠNG - 0397960396 - 569 - khu phố Chánh - phường Gia Bình - huyện Trảng Bàng - tỉnh Tây Ninh "
+  },
+  "About": {
+    "paragraph": "Kỹ năng luyện chữ đẹp là một phần quan trọng của việc phát triển tư duy sáng tạo và kỹ năng viết văn tại chúng tôi. Chúng tôi cam kết đảm bảo rằng học sinh của chúng tôi có thể viết chữ đẹp và rõ ràng.   Tại trường chúng tôi, chúng tôi cung cấp các phương pháp giảng dạy hiện đại và môi trường học tập thân thiện, an toàn để giúp học sinh phát triển kỹ năng viết chữ đẹp. Chúng tôi tạo điều kiện thuận lợi để học sinh nắm vững kiến thức cơ bản về viết chữ và cũng khuyến khích họ phát triển thói quen làm việc cẩn thận, tỉ mỉ.   Kỹ năng viết chữ đẹp không chỉ là một kỹ năng thẩm mỹ mà còn là một phần quan trọng của giao tiếp và tư duy sáng tạo. Học sinh của chúng tôi sẽ được hướng dẫn và rèn luyện để viết chữ đẹp, tự tin và thể hiện cá nhân hóa trong viết văn của họ. Chúng tôi tin rằng kỹ năng này sẽ giúp học sinh thành công không chỉ trong học tập mà còn trong cuộc sống.",
+    "Why": [
+      "Phương pháp giảng dạy hiện đại",
+      "Môi trường học tập thân thiện, an toàn",
+      "Nắm vững kiến thức cơ bản"    ],
+    "Why2": [
+      "Phát triển tư duy sáng tạo và kỹ năng viết văn",
+      "Tạo thói quen làm việc cẩn thận, tỉ mỉ",
+      "Kỹ năng viết chữ"    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Thiết kế và Phát triển Website",
+      "text": "Chúng tôi không chỉ tạo ra những trang web đẹp mắt, mà còn đảm bảo rằng chúng hoạt động hiệu quả. Chúng tôi tạo ra trải nghiệm người dùng tốt và tối ưu hóa tính năng của trang web."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Thiết kế Hệ thống Quản lý Cửa hàng Doanh nghiệp Nhỏ",
+      "text": "Chúng tôi tạo ra các giải pháp hệ thống quản lý chuyên nghiệp cho doanh nghiệp nhỏ của bạn, giúp bạn tối ưu hóa quá trình quản lý và phát triển doanh nghiệp một cách hiệu quả. Hệ thống quản lý của chúng tôi được thiết kế để đáp ứng các nhu cầu cụ thể của cửa hàng doanh nghiệp nhỏ và bao gồm các tính năng sau: Quản lý Sản phẩm, Quản lý Đơn hàng, Quản lý Khách hàng, Thống kê và Báo cáo"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Bảo trì và Hỗ trợ liên tục",
+      "text": "Chúng tôi đảm bảo trang web của bạn luôn hoạt động ổn định. Dịch vụ bảo trì và hỗ trợ của chúng tôi giúp bạn giải quyết mọi vấn đề kỹ thuật một cách nhanh chóng và hiệu quả."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Hue Luong",
+      "job": "Teacher"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Hue Luong",
+      "job": "Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Hue Luong",
+      "job": "painter"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ben Vo",
+      "job": "Project Developer"
+    }
+  ],
+  "Contact": {
+    "address": "569 - khu phố Chánh - phường Gia Bình - huyện Trảng Bàng - tỉnh Tây Ninh ",
+    "phone": "0397960396",
+    "email": "linhvdse31191@gmail.com",
+    "facebook": "https://www.facebook.com/hue.luong.923724",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "LUYỆN CHỮ ĐẸP",
+      "text": "Học phí 50k/1 buổi lớp tối đa 10 học viên, thời gian 5h30 pm -> 7h30pm."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "VẼ TRANH",
+      "text": "Học phí 80k/1 buổi lớp tối đa 5 học viên,thời gian 5h30 pm -> 7h30pm."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "DẠY KÈM TIẾNG NHẬT",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "LUYỆN CHỮ ĐẸP VÀO LỚP 1",
+      "text": "Học phí 50k/1 buổi lớp tối đa 10 học viên, thời gian học tự chọn."
+    }
+  ]
+}
